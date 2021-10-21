@@ -16,7 +16,7 @@ mqttbroker = none
 mqttport = 1883
 mqttuser = none
 mqttpasswd = none
-mqqprefix = none
+mqttprefix = none
 # Enter your WiFi network specs here:
 wifi_00 = SSID1/PASSWD1
 wifi_01 = SSID2/PASSWD2
